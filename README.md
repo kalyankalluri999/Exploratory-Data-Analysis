@@ -1,3 +1,4 @@
+
 # Exploratory-Data-Analysis
 
 **1. Observe your dataset**
@@ -19,6 +20,8 @@ After you find any missing values, you can categorize your values to help determ
 **Continuous:-** Continuous variables can have an infinite number of values.
 
 **Discrete:-** Discrete variables can have a set number of values that must be numeric.
+                ![image](https://user-images.githubusercontent.com/93079874/170111505-bf161515-d340-43ff-b16b-27db53ae63ac.png)
+
 
 
 **4. Find the shape of your dataset**
@@ -34,4 +37,8 @@ As you continue to understand your dataset, you can begin to pick out relationsh
 **6. Locate any outliers in your dataset**
 
 Locating outliers in your dataset is another important step to conducting EDA. Outliers are values in your dataset that are significantly different from the rest of the values. Outliers can be much higher or lower than the other values in a dataset. It's important to identify outliers because they can skew the mean, median, mode or range of a dataset and alter the appearance of a visual representation. You can locate outliers by observing your graphs or sorting your data in numerical order during your EDA.
+
+**7. Correlation Analysis**
+
+**8. Outlier treatment**
 
