@@ -1,6 +1,6 @@
 # Exploratory-Data-Analysis
 
-**1. Observe your dat**aset
+**1. Observe your dataset**
 
 The first step to conducting exploratory data analysis is to observe your dataset at a high level. Start by determining the size of your dataset, including how many rows and columns it has. This can help you predict any future issues you might have with your data.
 
