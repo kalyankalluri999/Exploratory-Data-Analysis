@@ -36,8 +36,3 @@ As you continue to understand your dataset, you can begin to pick out relationsh
 **6. Locate any outliers in your dataset**
 
 Locating outliers in your dataset is another important step to conducting EDA. Outliers are values in your dataset that are significantly different from the rest of the values. Outliers can be much higher or lower than the other values in a dataset. It's important to identify outliers because they can skew the mean, median, mode or range of a dataset and alter the appearance of a visual representation. You can locate outliers by observing your graphs or sorting your data in numerical order during your EDA.
-
-**7. Correlation Analysis**
-
-**8. Outlier treatment**
-
